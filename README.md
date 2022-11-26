@@ -1,2 +1,2 @@
-# JAVA-assignments
-JAVA assignment of Maqsood Ehsan
+# Data Types
+Contains the data types assignment
